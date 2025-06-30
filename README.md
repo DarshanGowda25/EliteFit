@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
--[https://elitefit.vercel.app](https://elite-front-end-two.vercel.app/)
+-[(https://elite-front-end-two.vercel.app/)](https://elite-front-end-delta.vercel.app/)
 
 
 ---
